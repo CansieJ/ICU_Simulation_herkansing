@@ -1,5 +1,20 @@
 [
     {
+        "departments": [["CAPU","INT", "NEU","CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [1],
+        "is_specialized": [false],
+        "planning_method": 1,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 0,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": false
+    },
+
+
+    {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
         "is_specialized": [false],
@@ -12,6 +27,8 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -25,6 +42,8 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -38,6 +57,9 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -51,6 +73,8 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -64,6 +88,8 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -77,6 +103,8 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -90,6 +118,8 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -103,6 +133,8 @@
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
     },
+
+
     {
         "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
         "distribution": [0.3289, 0.3587, 0.3124],
@@ -115,5 +147,237 @@
         "efficiency": 10,
         "pandemic_allocation_percentage": 0,
         "use_ic_spike": false
+    },
+
+
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 1,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 15,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": false
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 2,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 15,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": false
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 3,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 15,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": false
+    },
+
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [false],
+        "planning_method": 1,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 0,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [false],
+        "planning_method": 2,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 0,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [false],
+        "planning_method": 3,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 0,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 1,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 5,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 2,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 5,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 3,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 5,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 1,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 10,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 2,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 10,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 3,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 10,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 1,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 15,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 2,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 15,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
+    },
+
+
+    {
+        "departments": [["CAPU"], ["INT", "NEU"], ["CARD",  "Other", "CHIR", "NEC"]],
+        "distribution": [0.3289, 0.3587, 0.3124],
+        "is_specialized": [true],
+        "planning_method": 3,
+        "amount": 2200,
+        "size": 20,
+        "clock_speed": 10,
+        "capacity": 32,
+        "efficiency": 15,
+        "pandemic_allocation_percentage": 0,
+        "use_ic_spike": true
     }
+
 ]
